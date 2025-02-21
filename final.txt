@@ -1,0 +1,18 @@
+Price of hawker food 1: 5
+Name of hawker food 1: nasilemak
+Location 1 of hawker centre food was bought at : bedok
+Price of hawker food 2: 3
+Name of hawker food 2: nasilemak
+Location 2 of hawker centre food was bought at : pasirris
+Price of hawker food 3: 4
+Name of hawker food 3: bandung
+Location 3 of hawker centre food was bought at : eunos
+Price of hawker food 4: 5
+Name of hawker food 4: icekachang
+Location 4 of hawker centre food was bought at : simei
+Price of hawker food 5: 5
+Name of hawker food 5: rotiprata
+Location 5 of hawker centre food was bought at : jurong
+Average cost of all food = $ 4.4
+Total cost of all food items: 22
+I hope you enjoyed your meals at the hawker centres, support our local hawkers!
